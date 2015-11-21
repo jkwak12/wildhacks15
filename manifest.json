@@ -20,6 +20,8 @@
 
 	"offline_enabled": false,
 
-	//"permissions": []
+	"permissions": [
+		"tabs"
+	]
 		
 }
