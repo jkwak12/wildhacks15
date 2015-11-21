@@ -13,8 +13,9 @@
 		"default_icon": {
 			"19": "images/T19.png",
 			"38": "images/T38.png"
+		}
 		//"default_popout": "..."
-		"default_title": "Meow"
+		"default_title": "Duplicate Tabs Extension"
 		},
 
 	"offline_enabled": false,
