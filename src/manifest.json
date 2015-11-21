@@ -18,15 +18,8 @@
 		"default_title": "Duplicate Tabs Extension"
 		},
 
-	"background": {
-		"scripts": ["script.js"],
-		"persistent": false
-	}
-
 	"offline_enabled": false,
 
-	"permissions": [
-		"tabs"
-	]
+	//"permissions": []
 		
 }
