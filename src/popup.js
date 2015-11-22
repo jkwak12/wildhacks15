@@ -1,6 +1,6 @@
 
 
-function getCurrentTabUrl(callback) {
+function getAllTabUrl(callback) {
   var queryInfo = {			//condition that makes all tabs in current window to be put into array
     currentWindow: true
   };
@@ -17,3 +17,4 @@ function getCurrentTabUrl(callback) {
 });
 
 }
+
