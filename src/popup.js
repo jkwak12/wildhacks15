@@ -14,6 +14,8 @@ function getAllTabUrl(callback) {
   	}
 
 
+ callback(holdTabs);
+
 });
 
 }
